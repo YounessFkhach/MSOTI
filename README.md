@@ -46,12 +46,7 @@ Cours/TPs/Ressources
 
 ---
 ### How to contribute
-<<<<<<< HEAD
 1. sign in to [github](github.com)
-=======
-
-1. install Git
->>>>>>> 2c2de01b7322868ae28c87bfc20491c3a3e07ab7
 
 2. head over to the project [GitHub repo](https://github.com/YounessFkhach/MSOTI) and click the "Fork" button on the top.
 
@@ -90,15 +85,9 @@ git pull origin master
 
 10. finally to add your contribution to the original repo just go  to "https://github.com/< Your USERNAME >/MSOTI/pulls" and open a new pull request to save changes to the original repo(https://github.com/YounessFkhach/MSOTI.git)
 
-<<<<<<< HEAD
-## Tutorials
-> [git tutorial](https://try.github.io/levels/1/challenges/1)
-,
-[markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-=======
 
 ## Tutorials
 > [git tutorial](https://try.github.io/levels/1/challenges/1)
  | 
 [markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
->>>>>>> 2c2de01b7322868ae28c87bfc20491c3a3e07ab7
+
