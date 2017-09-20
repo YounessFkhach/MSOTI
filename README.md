@@ -46,21 +46,22 @@ Cours/TPs/Ressources
 
 ---
 ### How to contribute
-1. install Git
+1. sign in to [github](github.com)
 
-2. Just head over to the [GitHub page](https://github.com/YounessFkhach/MSOTI) and click the "Fork" button. It's just that simple
+2. head over to the project [GitHub repo](https://github.com/YounessFkhach/MSOTI) and click the "Fork" button on the top.
 
-3. install Git (or any other git client)
+3. install Git on your machine (or any other git client)
 
 4. clone your fork repo
 ```bash
 git clone https://github.com/<your USERNAME>/MSOTI.git
 ```
-5. Add the original 'upstream' repo to list of remotes
+5. Add the original repo 'upstream' to list of remotes
 ```bash
 git remote add upstream https://github.com/YounessFkhach/MSOTI.git
 ```
-6. Whenever you want to update your fork with the latest upstream changes, you'll need to first fetch the upstream repo's branches and latest commits to bring them into your repository:
+6. Whenever you want to update your fork with the latest upstream changes, you'll need to first fetch the upstream repo's branches and latest commits to bring them into your repository, then merge it to your master:
+
 ```bash
 # Fetch from upstream remote
 git fetch upstream
@@ -71,7 +72,7 @@ git merge upstream/master
 
 7. make your changes
 
-8. save changes locally
+8. to save your changes locally
 ```bash
 git commit
 ```
@@ -82,5 +83,9 @@ git pull origin master
 
 
 
-10. now to add your contribution to the original repo just go  to "https://github.com/< Your USERNAME >/MSOTI/pulls" and open a new pull request to save changes to the original repo(https://github.com/YounessFkhach/MSOTI.git)
+10. finally to add your contribution to the original repo just go  to "https://github.com/< Your USERNAME >/MSOTI/pulls" and open a new pull request to save changes to the original repo(https://github.com/YounessFkhach/MSOTI.git)
 
+## Tutorials
+> [git tutorial](https://try.github.io/levels/1/challenges/1)
+,
+[markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
