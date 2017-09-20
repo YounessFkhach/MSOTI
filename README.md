@@ -46,6 +46,7 @@ Cours/TPs/Ressources
 
 ---
 ### How to contribute
+
 1. install Git
 
 2. Just head over to the [GitHub page](https://github.com/YounessFkhach/MSOTI) and click the "Fork" button. It's just that simple
@@ -73,7 +74,7 @@ git merge upstream/master
 
 8. save changes locally
 ```bash
-git commit
+git commit -a
 ```
 9. send saved changes to your fork repo
 ```bash
@@ -84,3 +85,8 @@ git pull origin master
 
 10. now to add your contribution to the original repo just go  to "https://github.com/< Your USERNAME >/MSOTI/pulls" and open a new pull request to save changes to the original repo(https://github.com/YounessFkhach/MSOTI.git)
 
+
+## Tutorials
+> [git tutorial](https://try.github.io/levels/1/challenges/1)
+ | 
+[markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
