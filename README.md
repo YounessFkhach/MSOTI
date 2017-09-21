@@ -44,6 +44,8 @@ Cours/TPs/Ressources
 ```
 
 ---
+### How to be up to date
+
 
 1. sign in to [github](github.com)
 
